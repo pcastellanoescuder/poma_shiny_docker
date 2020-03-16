@@ -6,4 +6,6 @@ This repository contains the Docker image of POMA shiny app.
 
 ### Step 1: Install Docker
 
-### Step 2: Run the docker image 
+### Step 2: Clone this repository
+
+### Step 3: Run the docker image 
