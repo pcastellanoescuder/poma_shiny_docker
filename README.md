@@ -1,3 +1,3 @@
 # POMA Shiny Docker
 
-This repository contains the Docker image of POMA shiny app.
+This repository contains the Docker container of POMA shiny app.
